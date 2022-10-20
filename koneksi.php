@@ -3,4 +3,5 @@
     db_name =
     db_password =
     echo "miftah jelek" ss
+
 ?>
